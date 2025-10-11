@@ -1,0 +1,1 @@
+C:\Users\gzdag\miniconda3\Scripts.\activate.bat
