@@ -27,7 +27,7 @@ git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-
 
 - Al ejecutar el programa visualizaremos el menú de selección de IA coloreadas por su dificultad:
 
-![Ejecutar](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/67186133cafee3aa278e8fc09e6a8f75ef4c7cc4/EquipoMM_DivideVenceras/img/1%20-%20Al%20inicializar%20el%20programa%20(selecci%C3%B3n%20de%20IA).png)
+![Ejecutar]((https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/7e319d7bd5bb2625053b916e1e387e7d2494808c/EquipoMM_DivideVenceras/img/1%20-%20Al%20inicializar%20el%20programa%20(selecci%C3%B3n%20de%20IA).png))
 
 - Al seleccionar una dificultad la partida iniciará:
 
