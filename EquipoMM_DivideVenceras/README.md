@@ -56,7 +56,7 @@ git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-
 
 - - Minimax:
 
-![Grafica Minimax]()
+![Grafica Minimax](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/6d3e448c0b6115aa1803dff486e2f3c79b00031c/EquipoMM_DivideVenceras/img/5MM%20-%20Tiempos%20de%20respuesta.jpg)
 
 - - Alpha-Beta prunning:
 
