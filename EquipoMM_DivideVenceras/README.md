@@ -56,11 +56,11 @@ git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-
 
 - - Minimax:
 
-![Grafica Minimax](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f0681d4b0eab55439a4a68a286a980382349f101/EquipoMM_DivideVenceras/img/5MM%20-%20Tiempos%20de%20respuesta.png)
+![Grafica Minimax](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f0681d4b0eab55439a4a68a286a980382349f101/EquipoMM_DivideVenceras/img/5MM%20-%20Tiempos%20de%20respuesta.jpg)
 
 - - Alpha-Beta prunning:
 
-![Grafica Minimax](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f0681d4b0eab55439a4a68a286a980382349f101/EquipoMM_DivideVenceras/img/5AB%20-%20Tiempos%20de%20respuesta.png)
+![Grafica Minimax](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f0681d4b0eab55439a4a68a286a980382349f101/EquipoMM_DivideVenceras/img/5AB%20-%20Tiempos%20de%20respuesta.jpg)
 
 #Nota: El programa se cerrará automáticamente al presionar el botón **"Ok"**
 message.txt
