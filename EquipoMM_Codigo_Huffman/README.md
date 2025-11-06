@@ -30,15 +30,15 @@ git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/acc96bb102
 
 - Al ejecutar el programa visualizaremos una ventana que contiene varios botones y campos tal que así:
 
-![Ejecutar](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/1.Programa%20inicia.png)
+![Ejecutar](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/1.Programa%20inicia.png)
 
 - Se deberá presionar el botón verde con un ícono de carpeta abierta para seleccionar un archivo **.txt**; asímismo se deberá presionar el botón azul con ícono de carpeta para seleccionar una ruta donde se almacenarán los archivos generados:
 
-![Selección de rutas](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/2.Directorios%20seleccionados.png)
+![Selección de rutas](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/2.Directorios%20seleccionados.png)
 
 -  Una vez seleccionados el archivo de texto y la ruta de salida, se podrá presionar el botón "Comprimir" sin problema alguno:
 
-![Comprime](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/3.Comprime.png)
+![Comprime](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/3.Comprime.png)
 
  Al presionar el botón se mostrará una ventana que confirma el éxito de la operación, adicionalmente debajo se mostrarán los siguientes datos:
  | Dato  |
@@ -49,19 +49,19 @@ git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/acc96bb102
 
 Aquí una muestra de cómo debe quedar el archivo comprimido:
 
-![Resultado_compresión](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/3.1%20Resultado%201.png)
+![Resultado_compresión](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/3.1%20Resultado%201.png)
 
 - Una vez generado un archivo comprimido, podremos utilizar el botón "Descomprimir" para realizar el proceso de descompresión:
 
-![Descomprime](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/4.Descomprime.png)
+![Descomprime](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/4.Descomprime.png)
 Al presionar el botón se mostrará una ventana que confirma el éxito de la operación.
 
 Aquí una muestra de cómo debe quedar el archivo descomprimido:
 
-![Resultado_descompresión](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/4.%20Resultado%202.png)
+![Resultado_descompresión](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/4.%20Resultado%202.png)
 
 - Y ya puede finalizar el programa
 
 - Adicionalmente se adjuntará una muestra de un archivo **.txt* original, un archivo **.bin** resultado de una compresión, y otro archivo **.txt** resultado de la descompresión:
 
-![Resultados visuales](https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman/Funcionamiento/5.%20Pruebas.png)
+![Resultados visuales](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f731ea6b0972dd6f23648441833538b75706038f/EquipoMM_Codigo_Huffman/Funcionamiento/5.%20Pruebas.png)
