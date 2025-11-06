@@ -14,7 +14,7 @@ Se requiere de un intérprete de la siguiente versión para que el programa func
 
 - Clona el repositorio: 
 ``` python
-git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/tree/9c111004e9363f10c6a1028de764b46bafb47991/EquipoMM_C%C3%B3digo%20Huffman
+git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/acc96bb102f46c7c50abd336f079a1b1aa5e0b1c/EquipoMM_Codigo_Huffman
 ```
 - Navega al directorio del proyecto: ```cd EquipoMM_Código Huffman```
 - Instala las dependencias: 
