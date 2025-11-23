@@ -59,24 +59,23 @@ def dibujarGrafo(parent): #Dibujar y presentar el grafo dentro de un widget Tk u
     pos = nx.spring_layout(G) #Posicionamiento de nodos
 
     # Crear figura matplotlib y dibujar en ella
-    fig = Figure(figsize=(5, 4), dpi=100)
-    ax = fig.add_subplot(111)
+    fig = Figure(figsize=(5, 4), dpi=100) #Crear figura
+    ax = fig.add_subplot(111) #Agregar subplot
     ax.set_title("Grafo del Problema del Viajero (TSP)")
     ax.axis('off')
 
     # Dibujar grafo 
     nx.draw(G, pos, ax=ax, with_labels=True, node_color='lightblue', node_size=500, font_size=10)
-    labels = nx.get_edge_attributes(G, 'weight')
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=labels, ax=ax)
+    labels = nx.get_edge_attributes(G, 'weight') #Etiquetas de pesos
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=labels, ax=ax) #Dibujar etiquetas de pesos
 
     fig.tight_layout() #Ajustar diseño
 
     # Embedir la figura en Tk
     canvas = FigureCanvasTkAgg(fig, master=parent)
     canvas.draw()
-    widget = canvas.get_tk_widget()
-    widget.pack(fill='both', expand=True)
-    return canvas
+    widget = canvas.get_tk_widget() 
+    widget.pack(fill='both', expand=True) #Empaquetar el widget
 
 def mostrar_resultado():
     nodoInicial=nodoInicio.get()
@@ -93,13 +92,13 @@ if __name__ == "__main__":
     #Interfaz
     root=tk.Tk()
     root.title("TSP Backtracking")
-    root.geometry("720x600")
-    label=tk.Label(root, text="Resolviendo TSP con Backtracking", font=("Arial", 16))
+    root.geometry("720x600")#Establecer tamaño de ventana
+    label=tk.Label(root, text="Resolviendo TSP con Backtracking", font=("Arial", 16))#Titulo de la ventana
     label.pack(pady=20)
     #Mostrar grafo
-    grafoFrame = tk.Frame(root, width=300, height=100)
-    grafoFrame.pack(padx=10, pady=5, fill='both', expand=True)
-    dibujarGrafo(grafoFrame)
+    grafoFrame = tk.Frame(root, width=300, height=100) #Contenedor para el grafo
+    grafoFrame.pack(padx=10, pady=5, fill='both', expand=True) #Empaquetar el frame
+    dibujarGrafo(grafoFrame)#Dibujar el grafo en el frame
     resultado=tk.Label(root, text="Resultado: ", font=("Arial", 12))
     resultado.pack(pady=10)
     nodoInicio=tk.Entry(root)
