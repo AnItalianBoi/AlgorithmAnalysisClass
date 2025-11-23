@@ -7,7 +7,7 @@ En esta actividad decidi en usar la técnica de backtracking para resolver el pr
 
 - Clona el repositorio: 
 ``` python
-git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/71c262d644dfa09fa80957fbcd4f8cf7bb4c87f3/Dagnino_Gerardo_TSP
+git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/a0a7a69b036393bcda3c1db669e54a7516a684c0/Dagnino_Gerardo_TSP/Dagnino_Gerardo_TSP.py
 ```
 - Navega al directorio del proyecto: ```cd Dagnino_Gerardo_TSP```
 - Instala las dependencias: 
