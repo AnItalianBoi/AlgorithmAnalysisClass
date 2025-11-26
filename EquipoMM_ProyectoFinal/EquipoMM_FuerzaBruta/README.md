@@ -36,5 +36,3 @@ git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/f4710a4442
 -Por último cuando hay un ganador se ve así:
 
 ![Final](https://github.com/AnItalianBoi/AlgorithmAnalysisClass/blob/f4710a44420bf066ac07ae8f3ed5297e55c46a9c/EquipoMM_ProyectoFinal/EquipoMM_FuerzaBruta/img/21ComputadoraGana.png)
-
-4 KB
