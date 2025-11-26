@@ -1,6 +1,6 @@
-# Visualizador de metodos de Ordenamiento
+# Implementación de Algoritmo Voraz Huffman
 
-Programa con finalidad de visualizar la diferencia entre un algoritmo de fuerza bruta **(Minimax)** y otro divide y venceras **(Alpha-Beta Prunning)** en juegos de 2 jugadores modalidad 1 contra 1 con la utilización de **pygame** para jugar una partida de Damas.
+El objetivo de este programa es agregar algún algoritmo voraz al programa que se a estado llevando, el juego de damas, para esto se decidió implementar un manejo de archivos con compresión y descompresión mediante el algoritmo de **Huffman**.
 
 # Instrucciones de Instalación
 
@@ -11,16 +11,16 @@ Se requiere de un intérprete de la siguiente versión para que el programa func
 
 - Clona el repositorio: 
 ``` python
-git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/67186133cafee3aa278e8fc09e6a8f75ef4c7cc4/EquipoMM_DivideVenceras
+git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/f4710a44420bf066ac07ae8f3ed5297e55c46a9c/EquipoMM_ProyectoFinal
 ```
-- Navega al directorio del proyecto: ```cd EquipoMM_DivideVenceras```
+- Navega al directorio del proyecto: ```cd EquipoMM_Voraz```
 - Instala las dependencias: 
 ```pip install -r requirements.txt ```
 
 ## Ejecución
 
 1. **Modo de ejecución:**
-- Navega al directorio: ```cd EquipoMM_DivideVenceras/src```
+- Navega al directorio: ```cd EquipoMM_Voraz/src```
 - Para ejecutar el script principal, usa el siguiente comando: `python main.py`
 
 2. **Ejemplos de uso**
