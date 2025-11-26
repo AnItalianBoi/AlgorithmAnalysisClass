@@ -11,7 +11,7 @@ Se requiere de un intérprete de la siguiente versión para que el programa func
 
 - Clona el repositorio: 
 ``` python
-git clone https://github.com/NicodobleG/25B-An-lisis-de-Algoritmos---D01---L_Mi-7-9am/blob/67186133cafee3aa278e8fc09e6a8f75ef4c7cc4/EquipoMM_DivideVenceras
+git clone https://github.com/AnItalianBoi/AlgorithmAnalysisClass/tree/3b9d40c6278333f112715f658f3070a32d0bab38/EquipoMM_ProyectoFinal/EquipoMM_DivideVenceras
 ```
 - Navega al directorio del proyecto: ```cd EquipoMM_DivideVenceras```
 - Instala las dependencias: 
